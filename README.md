@@ -8,7 +8,7 @@ start date: 15/09/2025 -
 
 we have 3 basic rules:
 - At least 1hr a day of learning/hacking
-- Daily share my learning. See here how to: [ONBOARDING.md]()
+- Daily share my learning. See here how to: [ONBOARDING.md](https://github.com/0tieno/DailyPayload/blob/main/ONBOARDING.md)
 - Write at least 1 blog post at the end of each week
 
 ## Quick start
