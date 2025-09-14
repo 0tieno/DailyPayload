@@ -45,5 +45,6 @@ DailyPayload/
 ## members
 1. [s!rr0nn3y](https://github.com/0tieno)
 2. [Lloyd]()
-   
+
+Join our [Discord Channel](https://discord.gg/QnMCA5eVXh)
 > progress over perfection
